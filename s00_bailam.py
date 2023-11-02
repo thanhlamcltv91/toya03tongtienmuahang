@@ -39,3 +39,4 @@ if __name__=='__main__':
   print( tongtienmuahang(gia_truoc_thue=1000000) )
   print( tongtienmuahang(None) )
 #endregion bailam
+
